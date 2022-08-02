@@ -2,7 +2,7 @@ from datetime import datetime
 from glob import glob
 import json,glob,random
 from msilib.schema import Class
-from random import random,choice
+import random
 from hoverable import HoverBehavior
 from kivy.app import App 
 from kivy.lang import Builder
